@@ -1,6 +1,4 @@
 
-<img alt="night programming" width=300 align="right" style="vertical-align:middle;margin:50px 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-
 # 💫 About Me:
 🔭 I'm currently working on my thesis<br>👯 I'm looking to collaborate on any project that interests me<br>🤝 I'm looking for help with my mind<br>🌱 I'm currently learning Machine Vision better<br>💬 Ask me about books I've read before<br>⚡ Fun fact, I am a Nerd
 
@@ -15,5 +13,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+
+<img alt="night programming" width=300 align="right" style="vertical-align:middle;margin:50px 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 [![](https://visitcount.itsvg.in/api?id=messbah-m-e&icon=0&color=0)](https://visitcount.itsvg.in)
