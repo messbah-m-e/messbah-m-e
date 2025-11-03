@@ -10,6 +10,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=messbah-m-e&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=messbah-m-e&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<img alt="night programming" width=300 align="right" style="vertical-align:middle;margin:50px 50px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
